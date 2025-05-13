@@ -1,6 +1,6 @@
 # IknowMyCMDies - PowerShell Command Manager
 
-![image](https://github.com/user-attachments/assets/7e2e9b8b-86cd-47a4-bbc8-1c1a405b0ec3)
+![image](https://github.com/user-attachments/assets/10ae4645-9d4f-4add-9a0f-9433eadf2a2f)
 
 *A sleek GUI for managing and executing your frequently used commands*
 

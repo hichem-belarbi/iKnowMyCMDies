@@ -1,2 +1,24 @@
-# iKnowMyCMDies
-IknowMyCMDies - A Powerful PowerShell Command Manager with GUI   ✨ Manage, execute, and organize PowerShell/CMD/Bash commands with a user-friendly interface   🛠️ Features: Command storage, quick execution, dark theme, cross-environment support   💻 Perfect for sysadmins, developers, and power users who work with repetitive commands
+# IknowMyCMDies - PowerShell Command Manager
+
+![image](https://github.com/user-attachments/assets/7e2e9b8b-86cd-47a4-bbc8-1c1a405b0ec3)
+
+*A sleek GUI for managing and executing your frequently used commands*
+
+## 🚀 Features
+- **Command Storage**: Save your frequently used PowerShell/CMD/Bash commands
+- **Quick Execution**: Run commands with one click or Enter key
+- **Multi-Environment Support**: Works with PowerShell, CMD, and Bash
+- **Dark Theme**: Easy-on-the-eyes interface with customizable colors
+- **Command Organization**: Categorize and manage your command library
+- **Execution Logging**: View command output directly in the app
+
+## 📦 Installation
+1. **Prerequisites**:
+   - Python 3.8+
+   - PyQt5 (`pip install PyQt5`)
+
+2. **Run the application**:
+   ```bash
+   git clone https://github.com/yourusername/IknowMyCMDies.git
+   cd IknowMyCMDies
+   python main.py

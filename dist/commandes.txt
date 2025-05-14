@@ -1,0 +1,4 @@
+open-bloc-notes:Start-Process notepad|PowerShell
+test-network:Test-Connection google.com -Count 2 | Select-Object Address, ResponseTime|PowerShell
+open-bluetooth:powershell.exe -ExecutionPolicy Bypass -File C:\Users\hichem\Desktop\iknowmycmdies\dist\bluetooth.ps1 -BluetoothStatus On|CMD
+close-bluetooth:powershell.exe -ExecutionPolicy Bypass -File C:\Users\hichem\Desktop\iknowmycmdies\dist\bluetooth.ps1 -BluetoothStatus off|CMD
